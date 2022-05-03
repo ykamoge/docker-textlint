@@ -1,0 +1,25 @@
+{
+  "name": "docker_textlint",
+  "version": "1.0.0",
+  "description": "textlint on Docker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ykamoge/docker-textlint.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ykamoge/docker-textlint/issues"
+  },
+  "homepage": "https://github.com/ykamoge/docker-textlint#readme",
+  "dependencies": {
+    "textlint": "^12.1.1",
+    "textlint-rule-preset-ja-spacing": "^2.2.0",
+    "textlint-rule-preset-ja-technical-writing": "^7.0.0",
+    "textlint-rule-preset-japanese": "^7.0.0"
+  }
+}
