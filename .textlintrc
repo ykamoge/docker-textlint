@@ -1,0 +1,8 @@
+{
+  "filters": {},
+  "rules": {
+    "preset-japanese": true,
+    "preset-ja-spacing": true,
+    "preset-ja-technical-writing": true
+  }
+}
