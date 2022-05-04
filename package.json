@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ykamoge/docker-textlint.git"
+    "url": "git+https://github.com/ykamoge/textlint-on-docker.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ykamoge/docker-textlint/issues"
+    "url": "https://github.com/ykamoge/textlint-on-docker/issues"
   },
-  "homepage": "https://github.com/ykamoge/docker-textlint#readme",
+  "homepage": "https://github.com/ykamoge/textlint-on-docker#readme",
   "dependencies": {
     "textlint": "^12.1.1",
     "textlint-rule-preset-ja-spacing": "^2.2.0",
