@@ -1,0 +1,6 @@
+version: 1
+
+imports:
+  # https://github.com/prh/rules/tree/master/media
+  - ./node_modules/prh/prh-rules/media/techbooster.yml
+  - ./node_modules/prh/prh-rules/media/WEB+DB_PRESS.yml
